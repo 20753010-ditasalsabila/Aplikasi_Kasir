@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gading">#FFF7E9</color>
+    <color name="biru_laut">#5F9DF7</color>
+    <color name="biru_tua">#1746A2</color>
+    <color name="orange">#FF731D</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
